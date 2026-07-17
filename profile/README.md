@@ -12,6 +12,7 @@
 
 ### patches (fenrir patched LK support)
 * [**Allow flashing images from fastbootd with fenrir patched LKs**](https://github.com/yaap/system_core/commit/ca84e2ec0689f62ad6449dbb7f45dece5898a307) (`android_system_core`)
+* [**Return true for IsDeviceUnlocked() if fenrir=true**](https://github.com/yaap/bootable_recovery/commit/b0630ff093f377c7c3158a11eae15bf4505cdc52) (`bootable_recovery`)
 
 ### Device kernel repositories
 * [**Kernel source**](https://github.com/moto-manaus/kernel_motorola_manaus) (`kernel_motorola_manaus`)
